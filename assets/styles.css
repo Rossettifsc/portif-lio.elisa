@@ -1,0 +1,28 @@
+.topo {
+    background-color: #cdd98d;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: "bebas neue";
+    font-size: 30px;
+    color: #860021;
+    word-wrap: break-word;
+}
+
+body {
+    background-color: #e9d3b2;
+}
+
+.topo h1 {
+    font-size: 50px;
+    color: #860021;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
